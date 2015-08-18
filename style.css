@@ -1,0 +1,13 @@
+#wrapper{
+  width: 960px;
+  margin: 0 auto;
+}
+
+#column_one, #column_two{
+  float: left;
+  width: 300px;
+}
+
+#column_two{
+  margin-left: 100px;
+}
