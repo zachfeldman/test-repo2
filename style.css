@@ -11,3 +11,13 @@
 #column_two{
   margin-left: 100px;
 }
+
+.article-img{
+  float: left;
+}
+
+.fb-icon{
+  position: fixed;
+  left: 10px;
+  top: 10px;
+}
